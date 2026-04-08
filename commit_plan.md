@@ -4,13 +4,13 @@ This document tracks the phased commits for the Unix Assignment 03. All applicat
 
 Whenever you instruct me to **"do the commit"**, I will check this file top-to-bottom, pick the first open stage `[ ]`, execute the Git commit purely based on the current real-time clock, and then mark it as completed `[x]`.
 
-- [ ] **Stage 1 (Initial Setup):** Commit the initial project structure, `assignment03.pdf`, `commit_plan.md`, and `executable_commands.md`.
+- [x] **Stage 1 (Initial Setup):** Commit the initial project structure, `assignment03.pdf`, `commit_plan.md`, and `executable_commands.md`.
   - *Command to be run: `git add <files> && git commit -m "Initial setup and assignment documentation"`*
 
-- [ ] **Stage 2 (Frontend):** Commit the entire `todo-frontend/` directory showing React UI work.
+- [x] **Stage 2 (Frontend):** Commit the entire `todo-frontend/` directory showing React UI work.
   - *Command to be run: `git add todo-frontend/ && git commit -m "Implemented React frontend UI and CSS styling"`*
 
-- [ ] **Stage 3 (Backend):** Commit the entire `todo-backend/` directory marking the completion of API integration.
+- [x] **Stage 3 (Backend):** Commit the entire `todo-backend/` directory marking the completion of API integration.
   - *Command to be run: `git add todo-backend/ && git commit -m "Added Node.js Express Backend and MongoDB connection logic"`*
 
 - [ ] **Stage 4 (Dockerization):** Commit the multi-stage `Dockerfile` and `docker-compose.yml`.
