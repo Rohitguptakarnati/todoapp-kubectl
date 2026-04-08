@@ -13,7 +13,7 @@ Whenever you instruct me to **"do the commit"**, I will check this file top-to-b
 - [x] **Stage 3 (Backend):** Commit the entire `todo-backend/` directory marking the completion of API integration.
   - *Command to be run: `git add todo-backend/ && git commit -m "Added Node.js Express Backend and MongoDB connection logic"`*
 
-- [ ] **Stage 4 (Dockerization):** Commit the multi-stage `Dockerfile` and `docker-compose.yml`.
+- [x] **Stage 4 (Dockerization):** Commit the multi-stage `Dockerfile` and `docker-compose.yml`.
   - *Command to be run: `git add Dockerfile docker-compose.yml && git commit -m "Added Docker support: multi-stage Dockerfile and docker-compose"`*
 
 - [ ] **Stage 5 (Orchestration):** Commit the `k8s/` folder showing the final deployment mapping.
