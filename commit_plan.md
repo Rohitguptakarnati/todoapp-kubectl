@@ -16,5 +16,5 @@ Whenever you instruct me to **"do the commit"**, I will check this file top-to-b
 - [x] **Stage 4 (Dockerization):** Commit the multi-stage `Dockerfile` and `docker-compose.yml`.
   - *Command to be run: `git add Dockerfile docker-compose.yml && git commit -m "Added Docker support: multi-stage Dockerfile and docker-compose"`*
 
-- [ ] **Stage 5 (Orchestration):** Commit the `k8s/` folder showing the final deployment mapping.
+- [x] **Stage 5 (Orchestration):** Commit the `k8s/` folder showing the final deployment mapping.
   - *Command to be run: `git add k8s/ && git commit -m "Added Kubernetes deployment and service manifests"`*
