@@ -1,10 +1,9 @@
 # Git Commit Execution Plan
 
-This document tracks the phased commits for the Unix Assignment 03. All application files have been built locally and we are now tracking them into version control progressively to span multiple days.
+All application files have been built locally and we are now tracking them into version control progressively to span multiple days.
 
-Whenever you instruct me to **"do the commit"**, I will check this file top-to-bottom, pick the first open stage `[ ]`, execute the Git commit purely based on the current real-time clock, and then mark it as completed `[x]`.
 
-- [x] **Stage 1 (Initial Setup):** Commit the initial project structure, `assignment03.pdf`, `commit_plan.md`, and `executable_commands.md`.
+- [x] **Stage 1 (Initial Setup):** Commit the initial project structure, `commit_plan.md`, and `executable_commands.md`.
   - *Command to be run: `git add <files> && git commit -m "Initial setup and assignment documentation"`*
 
 - [x] **Stage 2 (Frontend):** Commit the entire `todo-frontend/` directory showing React UI work.
